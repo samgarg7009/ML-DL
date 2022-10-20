@@ -1,0 +1,4 @@
+- Add valuable code
+- Don't spam
+- Add explaination
+- Write modular, maintainable and readble code with proper comments
